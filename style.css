@@ -1,0 +1,120 @@
+/* use library for font-family */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@700&display=swap');
+
+
+
+/* destkop */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+/* Mesud */
+/* start */
+
+
+/* end */
+
+
+
+/* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+/* Cavid */
+/* start */
+
+
+/* end */
+
+
+/* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+/* Afer */
+/* start */
+
+
+/* end */
+
+
+/* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+/* Omar */
+/* start */
+
+
+/* end */
+
+
+
+/* phone */
+@media (max-width: 380px) {
+    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+    /* Mesud */
+    /* start */
+
+
+    /* end */
+
+
+
+    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+    /* Cavid */
+    /* start */
+
+
+    /* end */
+
+
+    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+    /* Afer */
+    /* start */
+
+
+    /* end */
+
+
+    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+    /* Omar */
+    /* start */
+
+
+    /* end */
+
+}
+
+
+
+
+
+/* tablet */
+@media (min-width: 834px) {
+    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+    /* Mesud */
+    /* start */
+
+
+    /* end */
+
+
+
+    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+    /* Cavid */
+    /* start */
+
+
+    /* end */
+
+
+    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+    /* Afer */
+    /* start */
+
+
+    /* end */
+
+
+    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+    /* Omar */
+    /* start */
+
+
+    /* end */
+}
