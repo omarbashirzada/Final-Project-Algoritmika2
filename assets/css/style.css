@@ -10,6 +10,16 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Roboto';
+    font-style: normal;
+    color: #000;
+    max-width: 1440px;
+
+    padding-left: 5.8%;
+    padding-right: 5.8%;
+}
+
 /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
 /* Mesud */
 /* start */
@@ -31,6 +41,100 @@
 /* Afer */
 /* start */
 
+header .header-img {
+    max-width: 112px;
+
+    padding-bottom: 97px;
+}
+
+.header-container {
+    display: flex;
+}
+
+.header-container .items-container {
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+
+}
+
+.header-container img {
+    max-height: 21px;
+    padding-right: 10px;
+}
+
+.header-container .description {
+    max-width: 130px;
+
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+}
+
+.third_section_main {
+    padding-top: 162px;
+
+    padding-bottom: 179px;
+}
+
+.third_section_main .title {
+    padding-bottom: 89px;
+
+    font-family: 'Roboto Slab';
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+}
+
+.third_section_main .items-container {
+    display: flex;
+    /* justify-content: space-between; */
+    padding-right: 90px;
+    align-items: center;
+
+}
+
+.third_section_main .item:not(:last-of-type) {
+    padding-right: 100px;
+}
+
+.third_section_main .item-title {
+    padding-bottom: 30px;
+
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+    color: #1E4681;
+}
+
+
+.third_section_main .description {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+}
+
+.fourth_section_main {
+    padding-bottom: 240px;
+}
+
+.fourth_section_main .title {
+    padding-bottom: 40px;
+
+    font-family: 'Roboto Slab';
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+}
+
+.fourth_section_main .description {
+    max-width: 662px;
+    padding-top: 21px;
+
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+}
 
 /* end */
 
@@ -67,6 +171,74 @@
     /* Afer */
     /* start */
 
+    header .header-img {
+        max-width: 52.19px;
+
+        padding-bottom: 44px;
+    }
+
+    .header-container .items-container {
+        margin-right: 11.65px;
+    }
+
+    .header-container img {
+        max-height: 10.25px;
+        padding-right: 3.73px;
+    }
+
+    .header-container .description {
+        max-width: 60.58px;
+
+        font-size: 10px;
+    }
+
+    .third_section_main {
+        padding-top: 76px;
+        padding-bottom: 73px;
+    }
+
+    .third_section_main .title {
+        padding-bottom: 20px;
+
+        font-size: 26px;
+    }
+
+    .third_section_main .items-container {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .third_section_main .item:not(:last-of-type) {
+        padding-right: 20px;
+        padding-bottom: 35px;
+    }
+
+    .third_section_main .item-title {
+        padding-bottom: 10px;
+        font-size: 12px;
+    }
+
+    .third_section_main .description {
+        font-size: 10px;
+        padding-right: 40px;
+    }
+
+    .fourth_section_main {
+        padding-bottom: 85px;
+    }
+
+    .fourth_section_main .title {
+        font-size: 26px;
+        padding-bottom: 20px;
+    }
+
+    .fourth_section_main .description {
+        max-width: 299px;
+        font-size: 12px;
+
+        padding-top: 10px;
+    }
 
     /* end */
 
@@ -85,7 +257,7 @@
 
 
 /* tablet */
-@media (min-width: 834px) {
+@media (max-width: 834px) {
     /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
     /* Mesud */
     /* start */
@@ -106,6 +278,67 @@
     /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
     /* Afer */
     /* start */
+
+    header .header-img {
+        max-width: 64.87px;
+
+        padding-bottom: 57px;
+    }
+
+    .header-container .items-container {
+        margin-right: 20px;
+    }
+
+    .header-container img {
+        max-height: 12.74px;
+        padding-right: 5px;
+    }
+
+    .header-container .description {
+        max-width: 75.29px;
+
+        font-size: 12px;
+    }
+
+    .third_section_main {
+        padding-top: 93px;
+        padding-bottom: 103px;
+
+    }
+
+    .third_section_main .title {
+        padding-bottom: 51px;
+
+        font-size: 32px;
+    }
+
+    .third_section_main .item:not(:last-of-type) {
+        padding-right: 40px;
+    }
+
+    .third_section_main .item-title {
+        font-size: 15px;
+    }
+
+    .third_section_main .description {
+        font-size: 11px;
+    }
+
+    .fourth_section_main {
+        padding-bottom: 140px;
+    }
+
+    .fourth_section_main .title {
+        padding-bottom: 20px;
+        font-size: 32px;
+    }
+
+    .fourth_section_main .description {
+        max-width: 383px;
+
+        font-size: 14px;
+    }
+
 
 
     /* end */
