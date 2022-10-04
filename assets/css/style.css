@@ -32,6 +32,89 @@ body {
 /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
 /* Cavid */
 /* start */
+.main2-body{
+
+    margin-top: 174px;
+    display: flex;
+}
+
+.ilh_h3{
+    box-sizing: content-box;
+    font-size: 55px;
+    font-weight: 700;
+    font-family: 'Roboto Slab', sans-serif;
+    position: relative;
+    bottom: 55px;
+}
+
+.text2{
+    line-height: 1.5em;
+    font-size: 24px;
+    font-weight: 400;
+}
+.text2-2{
+    margin-top: 30px;
+}
+
+.man2{
+    top: 4px;
+    left: 20px;
+    position: absolute;
+    width: 314px;
+    height: 315px;
+
+}
+
+.ellipse2{
+    position: absolute;
+    width: 366px;
+    height: 59px;
+}
+
+.img2{
+    position: relative;
+    width: 366px;
+    height: 344px;
+    margin-top: 120px;
+    left: 190px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.main2-foot{
+    display: flex;
+    margin-top: 100px;
+    font-size: 18px;
+}
+.man3{
+    width: 232px;
+    height: 203px;
+}
+
+.m2{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 32.5px;
+}
+
+.m2-foot-txt{
+    display: flex;
+    flex-direction: column;
+    line-height: 23.4px;
+}
+
+.m2-foot-txt1{
+    margin-left: 132px;
+}
+
+.m2-foot-txt2{
+    margin-left: 95px;
+
+}
+
+.m2-foot-txt3{
+    margin-left: 95px;
+}
 
 
 /* end */
@@ -163,6 +246,210 @@ header .header-img {
     /* Cavid */
     /* start */
 
+    .main2-body{
+        margin-top: 100px;
+        display: flex;
+    }
+
+
+    .ilh_h3{
+        bottom: 20px;
+        font-size: 32px;
+
+    }
+
+    .text2{
+        font-size: 14px;
+        line-height: 150%;
+        font-weight: 400;
+    }
+    .text2-2{
+        margin-top: 17px;
+
+    }
+
+    .img2{
+        position: relative;
+        width: 181.86px;
+        height: 182.44px;
+        margin-right: 112px;
+        left: 100px;
+        margin-top: 10px;
+    }
+
+    .man2{
+        top: -15px;
+        left: 13px;
+        position: absolute;
+        width: 181.86px;
+        height: 182.44px;
+    }
+
+    .ellipse2{
+        position: absolute;
+        width: 211.98px;
+        height: 34.17px;
+    }
+
+    .man3{
+        width: 134.37px;
+        height: 117.57px;
+    }
+
+    .main2-foot{
+
+        margin-top: 55px;
+    }
+
+    .m2{
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 130%;
+    }
+
+    .m2-foot-txt{
+        display: flex;
+        line-height: 130%;
+    }
+
+    .m2-foot-txt1{
+        margin-left: 70px;
+        font-size: 11px;
+        line-height: 130%;
+    }
+
+    .m2-foot-txt2{
+        margin-left: 55px;
+        font-size: 11px;
+        line-height: 130%;
+    }
+
+    .m2-foot-txt3{
+        margin-left: 33px;
+        font-size: 11px;
+        line-height: 130%;
+    }
+
+
+}
+
+
+    /* end */
+
+
+    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+    /* Omar */
+    /* start */
+
+
+    /* end */
+
+}
+
+
+
+
+
+/* tablet */
+@media (max-width: 834px) {
+    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+    /* Mesud */
+    /* start */
+
+
+    /* end */
+
+
+
+    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
+    /* Cavid */
+    /* start */
+    .main2-body{
+        margin-top: 100px;
+        display: flex;
+    }
+
+
+    .ilh_h3{
+        bottom: 20px;
+        font-size: 32px;
+
+    }
+
+    .text2{
+        font-size: 14px;
+        line-height: 150%;
+        font-weight: 400;
+    }
+    .text2-2{
+        margin-top: 17px;
+
+    }
+
+    .img2{
+        position: relative;
+        width: 181.86px;
+        height: 182.44px;
+        margin-right: 112px;
+        left: 100px;
+        margin-top: 10px;
+    }
+
+    .man2{
+        top: -15px;
+        left: 13px;
+        position: absolute;
+        width: 181.86px;
+        height: 182.44px;
+    }
+
+    .ellipse2{
+        position: absolute;
+        width: 211.98px;
+        height: 34.17px;
+    }
+
+    .man3{
+        width: 134.37px;
+        height: 117.57px;
+    }
+
+    .main2-foot{
+
+        margin-top: 55px;
+    }
+
+    .m2{
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 130%;
+    }
+
+    .m2-foot-txt{
+        display: flex;
+        line-height: 130%;
+    }
+
+    .m2-foot-txt1{
+        margin-left: 70px;
+        font-size: 11px;
+        line-height: 130%;
+    }
+
+    .m2-foot-txt2{
+        margin-left: 55px;
+        font-size: 11px;
+        line-height: 130%;
+    }
+
+    .m2-foot-txt3{
+        margin-left: 33px;
+        font-size: 11px;
+        line-height: 130%;
+    }
+
+
+
 
     /* end */
 
@@ -239,38 +526,6 @@ header .header-img {
 
         padding-top: 10px;
     }
-
-    /* end */
-
-
-    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
-    /* Omar */
-    /* start */
-
-
-    /* end */
-
-}
-
-
-
-
-
-/* tablet */
-@media (max-width: 834px) {
-    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
-    /* Mesud */
-    /* start */
-
-
-    /* end */
-
-
-
-    /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
-    /* Cavid */
-    /* start */
-
 
     /* end */
 
