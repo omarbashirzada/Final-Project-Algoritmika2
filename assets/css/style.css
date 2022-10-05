@@ -48,7 +48,198 @@ header{
 /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
 /* Mesud */
 /* start */
+.first_section_main{
+    display: flex;
+    flex-direction: row;
+    padding-top: 40px;
+}
+.ilh_h1{
+    margin-top: 20px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 101.38%;
+    color: #000000;
+}
+.main1-end{
+    padding: 40px;
+}
+.saying-self{
+    margin-top: 20px;
+}
+.saying-by{
+    margin-bottom: -40px;
+}
 
+.ilh_p{
+    font-size: 20px;
+}
+
+.text{
+    line-height: 2em;
+    display: flex;
+    flex-direction: column;
+}
+
+.text1-1{
+    line-height: 150%;
+}
+
+.ilh_main{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.img1{
+    margin-left: 300px;
+    width: 304px;
+    height: 356px;
+    position: relative;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.ellipse1{
+    bottom: -19px;
+    position: absolute;
+    width: 274px;
+    height: 41px;
+    align-self: flex-end;
+}
+
+.man1{
+    position: absolute;
+    width: 304px;
+    height: 356px;
+    align-self: flex-end;
+}
+
+.main1-end{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.saying{
+    margin-top: 95px;
+    line-height: 1.28em;
+    box-sizing: content-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #1E4681;
+    border-radius: 5px;
+    width: 483px;
+    height: 200px;
+    color: #FFFFFF;
+}
+
+.saying-self{
+    line-height: 1.28em;
+    font-weight: 400;
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+}
+
+.saying-by{
+    padding-right: 17px;
+    font-family: 'Roboto', sans-serif;
+    align-self: flex-end;
+    line-height: 2em;
+    font-size: 20px;
+    font-weight: 400;
+}
+.second_section_footer>.footer-first {
+    background-color: #9DC9C8;
+}
+
+.second_section_footer>.footer-first>.footer-first-container {
+    width: 83%;
+    height: 780px;
+    margin: 0 8.5%;
+    padding: 179px 0;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-header {
+    width: 76%;
+    height: 66px;
+    margin-bottom: 54px;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-header>.footer-header-text {
+    font-family: Roboto Slab;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 55.76px;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-price {
+    width: 40%;
+    height: 180px;
+    margin-bottom: 7px;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-price>.footer-cost {
+    width: 35%;
+    height: 32px;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-price>.footer-cost>.footer-cost-text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25.35px;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-price>.footer-number {
+    width: 100%;
+    height: 148px;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-price>.footer-number>.footer-number-text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 81.11px;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-infos {
+    display: flex;
+    column-gap: 6%;
+    height: 111px;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info {
+    width: 25%;
+    height: 111px;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-name {
+    width: 100%;
+    height: 32px;
+    margin-bottom: 9px;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-name>.footer-info-name-text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25.35px;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-detail {
+    width: 100%;
+    height: 70px;
+}
+
+.second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-detail>.footer-info-detail-text {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18.25px;
+}
 
 /* end */
 
@@ -614,8 +805,129 @@ header .header-img {
     /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
     /* Mesud */
     /* start */
+    .ilh_h1{
+        font-size: 37px;
+        line-height: 38px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
 
+    .text1{
+        line-height: 15px;
+    }
 
+    .ilh_main{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img1{
+        width: 141.68px;
+        height: 175.1px;
+        position: relative;
+        display: flex;
+        margin-right: 30px;
+        align-self: flex-end;
+    }
+
+    .ellipse1{
+        bottom: -10px;
+        position: absolute;
+        width: 127.68px;
+        height: 19.1px;
+        align-self: flex-end;
+    }
+
+    .man1{
+        position: absolute;
+        width: 141.66px;
+        height: 165.89px;
+        align-self: flex-end;
+    }
+
+    .saying{
+        margin-top: 50px;
+        border-radius: 2px;
+        width: 225.36px;
+        height: 93.19px;
+        margin-left: -90px;
+
+    }
+
+    .saying-self{
+        font-size: 11px;
+        line-height: 130%;
+        margin-left: -12.13px;
+
+    }
+
+    .saying-by{
+        padding-right: 17px;
+        font-size: 10px;
+        line-height: 130%;
+        font-weight: 400;
+        margin-top: 7px;
+    }
+     
+    .second_section_footer>.footer-first>.footer-first-container {
+        height: 363px;
+        padding: 62px 0;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-header {
+        width: 224px;
+        height: 63px;
+        margin-bottom: 22px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-header>.footer-header-text {
+        font-size: 26px;
+        line-height: 26.36px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-price {
+        width: 224px;
+        height: 100px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-price>.footer-cost {
+        width: 79px;
+        height: 15px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-price>.footer-cost>.footer-cost-text {
+        font-size: 12px;
+        line-height: 12.17px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-price>.footer-number {
+        width: 224px;
+        height: 84px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-price>.footer-number>.footer-number-text {
+        font-size: 37px;
+        line-height: 37.51px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos {
+        height: 60px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info {
+        width: 151px;
+        height: 60px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-name {
+        width: 151px;
+        height: 15px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-name>.footer-info-name-text {
+        font-size: 12px;
+        line-height: 12.17px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-name {
+        margin-bottom: 5px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-detail {
+        width: 140px;
+        height: 40px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-detail>.footer-info-detail-text {
+        font-size: 10px;
+        line-height: 10.14px;
+    }
     /* end */
 
     /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
@@ -968,7 +1280,133 @@ header .header-img {
     /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
     /* Mesud */
     /* start */
+    .ilh_h1{
+        font-size: 46px;
+        line-height: 101.38%;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
 
+    .text1-1{
+        font-size: 12px;
+        line-height: 150%;
+    }
+
+    .img1{
+        margin-left: 90px;
+        width: 176.07px;
+        height: 206.18px;
+        position: relative;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .ellipse1{
+        bottom: -19px;
+        position: absolute;
+        width: 158.69px;
+        height: 23.75px;
+        align-self: flex-end;
+    }
+
+    .man1{
+        position: absolute;
+        width: 176.07px;
+        height: 206.18px;
+        align-self: flex-end;
+    }
+
+    .main1-end{
+        width: 40%;
+        margin: 0 auto;
+    }
+
+    .saying{
+        margin-top: 50px;
+        border-radius: 2px;
+        width: 280.11px;
+        height: 115.83px;
+        margin-left: -90px;
+
+    }
+
+    .saying-self{
+        font-size: 14px;
+        line-height: 130%;
+        margin-left: -12.13px;
+
+    }
+
+    .saying-by{
+        padding-right: 17px;
+        font-size: 12px;
+        line-height: 130%;
+        font-weight: 400;
+        margin-top: 7px;
+    }
+
+    .main2-body{
+        margin-top: 100px;
+        display: flex;
+    }
+
+
+    .ilh_h3{
+        bottom: 20px;
+        font-size: 32px;
+
+    }
+    .second_section_footer>.footer-first>.footer-first-container {
+        height: 451px;
+        padding: 103px 0 107px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-header {
+        height: 38px;
+        margin-bottom: 31px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-header>.footer-header-text {
+        font-size: 32px;
+        line-height: 32.44px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-price {
+        height: 100px;
+        margin-bottom: 8px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-price>.footer-cost {
+        height: 18px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-price>.footer-cost>.footer-cost-text {
+        font-size: 14px;
+        line-height: 14.19px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-price>.footer-number {
+        height: 82px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-price>.footer-number>.footer-number-text {
+        font-size: 46px;
+        line-height: 46.64px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos {
+        height: 64px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info {
+        height: 64px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-name {
+        height: 18px;
+        margin-bottom: 5px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-name>.footer-info-name-text {
+        font-size: 14px;
+        line-height: 14.19px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-detail {
+        height: 40px;
+    }
+    .second_section_footer>.footer-first>.footer-first-container>.footer-infos>.footer-info>.footer-info-detail>.footer-info-detail-text {
+        font-size: 10px;
+        line-height: 10.14px;
+    }
 
     /* end */
 
