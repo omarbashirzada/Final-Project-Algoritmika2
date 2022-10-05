@@ -801,7 +801,7 @@ header .header-img {
 
 
 /* phone */
-@media (min-width:320px) and (max-width: 991px) {
+@media (max-width: 380px) {
     /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
     /* Mesud */
     /* start */
@@ -1276,7 +1276,7 @@ header .header-img {
 
 
 /* tablet */
-@media (min-width:992px) and (max-width: 1280px) {
+@media (max-width: 840px) {
     /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
     /* Mesud */
     /* start */
