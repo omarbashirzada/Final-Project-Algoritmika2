@@ -970,6 +970,7 @@ header .header-img {
         display: flex;
         flex-direction: column;
         align-items: flex-start;
+        padding-right: 0px;
     }
 
     .third_section_main .item:not(:last-of-type) {
