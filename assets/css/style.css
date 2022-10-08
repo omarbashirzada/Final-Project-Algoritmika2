@@ -17,32 +17,32 @@ body {
     display: flex;
     height: 100%;
     flex-direction: column;
-   
+    justify-content: center;
     padding-top: 21px;
    
 }
 header{
-    padding-left: 70px;
+    padding-left: 121px;
     padding-right: 70px;
 }
 .first_section_main{
-    padding-left: 70px;
+    padding-left: 121px;
     padding-right: 70px;
 }
 .second_section_main{
-    padding-left: 70px;
+    padding-left: 121px;
     padding-right: 70px;
 }
 .third_section_main{
-    padding-left: 70px;
+    padding-left: 121px;
     padding-right: 70px;
 }
 .main2-foot{
-    padding-left: 70px;
+    padding-left: 121px;
     padding-right: 70px;
 }
 .fourth_section_main{
-    padding-left: 70px;
+    padding-left: 121px;
     padding-right: 70px;
 }
 /* <<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>*/
@@ -157,7 +157,6 @@ header{
 
 .second_section_footer>.footer-first>.footer-first-container {
     width: 83%;
-    height: 780px;
     margin: 0 8.5%;
     padding: 179px 0;
 }
@@ -462,8 +461,7 @@ header .header-img {
 
     margin-bottom: 121px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    padding-left: 121px;
     flex-direction: column;
 }
 
@@ -581,22 +579,20 @@ header .header-img {
 }
 
 .first_section_footer {
-    padding: 80px;
-    
     background: #EFEFEF;
 }
 
 .container_for_fifth_section {
     display: inline-block;
-    margin-left: 121px;
-    margin-top: 91px;
-    margin-bottom: 111px;
+    padding-left: 121px;
+    padding-top: 91px;
+    padding-bottom: 91px;
 }
 
 .head_of_fifth {
     width: 987px;
     height: 93px;
-
+    
     font-family: Roboto Slab;
     font-style: normal;
     font-weight: bold;
@@ -607,7 +603,7 @@ header .header-img {
 .card_of_fifth {
     width: 791px;
     height: 451px;
-
+    margin-top: 30px;
     background: #FFFFFF;
     box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
@@ -679,55 +675,13 @@ header .header-img {
         font-size: 32px;
         line-height: 101.38%;
     }
-    .card_of_fifth{
-        width: 458.12px;
-        height: 261.2px;
-
-        background: #FFFFFF;
-        box-shadow: 0.579167px 0.579167px 11.5833px rgba(0, 0, 0, 0.25);
-        border-radius: 17.375px;
-    }
-    .mein_content_of_card_of_fifth{
-        width: 405.42px;
-        height: 117.57px;
-        margin-left: 26px;
-        margin-top: 23px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 12px;
-        line-height: 150%;
-    }
-    .below_content_girl{
-        width: 110.04px;
-        height: 97.88px;
-        margin-right: 17px;
-    }
-    .ekaterina_head{
-        width: 204.45px;
-        height: 34.17px;
- 
-        font-family: 'Roboto Slab';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 17px;
-        line-height: 101.38%;
-        /* or 17px */
-    }
-    .facebook_for_card{
-        width: 18.53px;
-        height: 17.95px;
-    }
-    .for_hidden{
-        max-width: 100vw;
-    }
+    
     .third_section_footer  {
         background-color: black;
     }
     
     .third_section_footer .footer-second-container {
         width: 83%;
-        height: 390px;
         margin: 0 8.5%;
         padding: 50px 0 23px;
     }
